@@ -97,7 +97,7 @@
         <!-- Developers -->
         <div class="col-md-6 col-sm-12 text-right">
           <p class="black-text">
-            <strong>Developers</strong>: Dilpreet Kaur Bhatia, Ayush Pratap Singh, Utkarsh Bharat, Tanya Kumari
+            <strong>Developers</strong>: Rahul Singh, Nishant Kumar, Dilpreet Kaur Bhatia, Ayush Pratap Singh, Utkarsh Bharat, Tanya Kumari
           </p>
         </div>
       </div>
