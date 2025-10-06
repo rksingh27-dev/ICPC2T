@@ -19,7 +19,7 @@
           <h5 class="black-text">Quick Links</h5>
           <ul class="list-unstyled">
             <li>
-              <a class="black-text" href="brochure.pdf" target="_blank">Brochure</a>
+              <a class="black-text" href="brochure_new.pdf" target="_blank">Brochure</a>
             </li>
             <li>
               <a class="black-text" href="Home.vue" target="_blank">About Conference</a>

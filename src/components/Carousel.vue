@@ -85,8 +85,7 @@
   <div class="marquee-content">
     <div class="marquee-item">
      
-    CMT link for paper submission: <a href="https://cmt3.research.microsoft.com/ICPC2T2026" target="_blank">https://cmt3.research.microsoft.com/ICPC2T2026</a> | 
-    <a href="https://ieeexplore.ieee.org/xpl/conhome/10958571/proceeding" target="_blank">Proceedings of ICPC2T 2026</a>.
+    CMT link for paper submission: <a href="https://cmt3.research.microsoft.com/ICPC2T2026" target="_blank">https://cmt3.research.microsoft.com/ICPC2T2026</a>
 
     </div>
  
