@@ -51,11 +51,11 @@
                   onmouseout="this.start();"
                 >
                   CMT link for paper submission: <a href="https://cmt3.research.microsoft.com/ICPC2T2026" target="_blank" style="color: blue;">https://cmt3.research.microsoft.com/ICPC2T2026</a><br /><br />
-                  Paper Submission starts: 1<sup>st</sup> July 2025<br /><br />
-                  Deadline for Full Paper Submission: 30<sup>th</sup> October 2025<br /><br />
-                  Acceptance Notification: 30<sup>th</sup> November 2025<br /><br />
-                  Camera Ready Paper Submission: 15<sup>th</sup> December 2025<br /><br />
-                  Registration Deadline: 31<sup>st</sup> December 2025<br /><br />
+                  Paper Submission starts: 1<sup>st</sup> July, 2025<br /><br />
+                  Deadline for Full Paper Submission: 30<sup>th</sup> November, 2025<br /><br />
+                  Acceptance Notification: 31<sup>st</sup> December, 2025<br /><br />
+                  Camera Ready Paper Submission: 20<sup>th</sup> January, 2026<br /><br />
+                  Registration Deadline: 31<sup>st</sup> January, 2026<br /><br />
                 </marquee>
               </td>
             </tr>
@@ -80,23 +80,23 @@
           <tbody>
             <tr>
               <td><strong>Paper submission starts:</strong></td>
-              <td>1<sup>st</sup> July 2025</td>
+              <td>1<sup>st</sup> July, 2025</td>
             </tr>
             <tr>
               <td><strong>Deadline for Full Paper Submission:</strong></td>
-              <td>30<sup>th</sup> October 2025</td>
+              <td>30<sup>th</sup> November, 2025</td>
             </tr>
             <tr>
               <td><strong>Acceptance Notifications:</strong></td>
-              <td>30<sup>th</sup> November 2025</td>
+              <td>31<sup>st</sup> December, 2025</td>
             </tr>
             <tr>
               <td><strong>Camera Ready Paper Submission:</strong></td>
-              <td>15<sup>th</sup> December 2025</td>
+              <td>20<sup>th</sup> January, 2026</td>
             </tr>
             <tr>
               <td><strong>Registration deadline:</strong></td>
-              <td>31<sup>st</sup> December 2025</td>
+              <td>31<sup>st</sup> January, 2026</td>
             </tr>
           </tbody>
         </table>
