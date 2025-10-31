@@ -12,7 +12,7 @@
           Author/participants shall pay the registration fee directly to the bank account. The candidate shall send the filled registration form along with the payment proof to <a href="mailto:icpc2t@nitrr.ac.in">icpc2t-2025@nitrr.ac.in</a> on or before
           15/12/2024 and shall fill the registration form by <a href="https://docs.google.com/forms/d/1s9cRpodVDLOAg0AIo19MUmUNwoetBhipJ4dicvYytZg/formrestricted">clicking here</a> . The registration fee details and bank account details are given below.
         </p>
-        <h3>Registration Fees (Including GST  *)</h3>
+        <h3>Registration Fees (Excluding GST *)</h3>
 
                      <div class="FixedHeightContainer">
           <table class="table-responsive tg">
@@ -34,16 +34,16 @@
               </tr>
               <tr>
                 <td class="tg-x75h">
-                  <span class="table-head">INR (GST Included )</span>
+                  <span class="table-head">INR(GST excluded)</span>
                 </td>
                 <td class="tg-x75h">
-                  <span class="table-head">USD (GST Included )</span>
+                  <span class="table-head">USD (GST excluded)</span>
                 </td>
                 <td class="tg-x75h">
-                  <span class="table-head">INR (GST Included )</span>
+                  <span class="table-head">INR(GST excluded)</span>
                 </td>
                 <td class="tg-x75h">
-                  <span class="table-head">USD (GST Included )</span>
+                  <span class="table-head">USD (GST excluded)</span>
                 </td>
               </tr>
             </thead>
@@ -53,13 +53,13 @@
                   <span class="table-head">Student/Research Scholar</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">9440/- </span>
+                  <span class="table-col">8000/-</span>
                 </td>
                 <td class="tg-0lax">
                   <span class="table-col">$250</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">11,800/-</span>
+                  <span class="table-col">9000/-</span>
                 </td>
                 <td class="tg-0lax">
                   <span class="table-col">$300</span>
@@ -70,13 +70,13 @@
                   <span class="table-head">Academician</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">11,800/-</span>
+                  <span class="table-col">8000/-</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">$300</span>
+                  <span class="table-col">$250</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">14,160/-</span>
+                  <span class="table-col">9000/-</span>
                 </td>
                 <td class="tg-0lax">
                   <span class="table-col">$350</span>
@@ -87,16 +87,16 @@
                   <span class="table-head">Industry</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">14,160/-</span>
+                  <span class="table-col">9000/-</span>
+                </td>
+                <td class="tg-0lax">
+                  <span class="table-col">$300</span>
+                </td>
+                <td class="tg-0lax">
+                  <span class="table-col">10000/-</span>
                 </td>
                 <td class="tg-0lax">
                   <span class="table-col">$350</span>
-                </td>
-                <td class="tg-0lax">
-                  <span class="table-col">16,520/-</span>
-                </td>
-                <td class="tg-0lax">
-                  <span class="table-col">$400</span>
                 </td>
               </tr>
             </tbody>

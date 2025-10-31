@@ -50,8 +50,6 @@
                   onmouseover="this.stop();"
                   onmouseout="this.start();"
                 >
-                  All the accepted papers should be presented in physical mode only.
-                  <br /><br />
                   CMT link for paper submission: <a href="https://cmt3.research.microsoft.com/ICPC2T2026" target="_blank" style="color: blue;">https://cmt3.research.microsoft.com/ICPC2T2026</a><br /><br />
                   Paper Submission starts: 1<sup>st</sup> July 2025<br /><br />
                   Deadline for Full Paper Submission: 30<sup>th</sup> October 2025<br /><br />

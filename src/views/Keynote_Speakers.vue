@@ -73,7 +73,53 @@
         <img src="@/assets/Dr Sze Sing Lee.jpg" alt="Dr Sze Sing Lee" />
       </div>
     </div>-->
-    <p style="text-align: justify">Will be Updated soon.</p>
+    <!-- Prof. Sri Niwas Singh -->
+    <div class="speaker-item speaker-singh">
+      <div class="speaker-details">
+        <h3 class="speaker-name">Prof. Sri Niwas Singh</h3>
+        <p class="speaker-title">Director, Atal Bihari Vajpayee- Indian Institute of Information Technology and Management (ABV-IIITM), Gwalior, India</p>
+        <p class="speaker-description">
+          Prof. S. N. Singh obtained his M. Tech. and Ph. D. in Electrical Engineering from Indian Institute of Technology Kanpur, in 1989 and 1995. Presently, Prof Singh is Director, Atal Bihari Bajpayee- Indian Institute of Information Technology and Management Gwalior (MP), India (on leave from Professor (HAG), Department of Electrical Engineering, Indian Institute of Technology Kanpur, India). Before joining IIT Kanpur as Associate Professor, Dr Singh worked with UP State Electricity Board as Assistant Engineer from 1988 to 1996, with Roorkee University (now IIT Roorkee) as Assistant Professor from 1996 to 2000 and with Asian Institute of Technology, Bangkok, Thailand as Assistant Professor from 2001 to 2002. He was Vice Chancellor of Madan Mohan Malviya University of Technology Gorakhpur during April 2017 to July 2020. Dr Singh received several awards including Young Engineer Award 2000 of Indian National Academy of Engineering (INAE), Khosla Research Award of IIT Roorkee, and Young Engineer Award of CBIP New Delhi (India), 1996. Prof Singh is receipt of Humboldt Fellowship of Germany (2005, 2007) and Ottomonsted Fellowship of Denmark (2009-10). Prof Singh became first Asian to receive 2013 IEEE Educational Activity Board Meritorious Achievement Award in Continuing Education. He is also recipients of INAE Outstanding Teacher Award 2016 and IEEE R10 region (Asia-Pacific) Outstanding Volunteer Award 2016. Dr Singh is appointed as IEEE Distinguish Lecturer of Power & Energy Society from 2019 and Industry application Society for 2019-2021. He is also recipient of NPSC 2020 Academic Excellence Award and 2021 IEEE Industry Application Society (IAS) Outstanding Educator/ Mentor Award. His research interests include power system restructuring, FACTS, power system optimization & control, security analysis, wind power, etc. Prof Singh has published more than 550 papers (h-index=60, Citation=14k+) in International/national journals/conferences and supervised 42 PhD (9 PhD under progress). He has also written 33 book chapters, 13 Edited books and 2 text-books one on Electric Power Generation, Transmission and Distribution and second is Basic Electrical Engineering, published by PHI, India. Prof Singh has completed three dozen of technical projects in India and abroad. His two NPTEL (YouTube) video lectures on HVDC Transmission and Power System Operation & Control are very popular. Prof Singh was Chairman, IEEE UP Section for 2013 & 2014, IEEE R10 (Asia-Pacific) Conference & Technical Seminar Coordinator 2015-18 and R10 Vice-Chair, Technical Activities (2019-2020). Dr Singh is Fellows of IEEE (USA), IET (UK), INAE, IE(I), AAIA, AIIA, IETE, AvH.
+        </p>
+      </div>
+      <div class="speaker-image">
+        <img src="@/assets/Prof_Sri_Niwas_Singh.jpg" alt="Prof. Sri Niwas Singh" />
+      </div>
+    </div>
+
+    <!-- Dr. Sanjib Kumar Panda -->
+    <div class="speaker-item speaker-panda">
+      <div class="speaker-details">
+        <h3 class="speaker-name">Dr. Sanjib Kumar Panda</h3>
+        <p class="speaker-title">Associate Professor, Department of Electrical and Computer Engineering, National University of Singapore, Singapore</p>
+        <p class="speaker-description">
+          Sanjib Kumar Panda received a Bachelor of Engineering Degree with 1st Class Honours from Sardar Vallabhabhai Regional College of Engineering and Technology, Surat, India, in 1983. He was awarded the Gold Medal for securing the highest marks not only amongst the B. Engg. (Electrical) but also for securing the highest marks amongst all the B. Engg. (Civil, Mechanical and Electrical) students. He also earned a Masters of Technology Degree from the Institute of Technology, Banaras Hindu University, Varanasi, India in 1987. He was awarded the Gold Medal for securing the highest marks amongst all the M. Tech. (Electrical) students. Subsequently, he earned a PhD. Degree from the University of Cambridge, U.K., in 1991. He was awarded the Nehru Cambridge Fellowship and Overseas Research Studentship from the Cambridge Commonwealth Trust for Cambridge University for his PhD studies, 1987-1991.
+          <br/><br/>
+          He joined the Department of Electrical and Computer Engineering at the National University of Singapore as a Lecturer in 1992. He is currently serving as an Associate Professor. He has served as Director (Education) at the Design Technology Institute, a joint-venture between NUS and TU/e, The Netherlands and funded by EDB, Singapore. He has served as the Group Head of the Drives, Power and Control Group from 2007-2009. He was appointed as Area Director, Power & Energy Research Group of the Department of Electrical & Computer Engineering at NUS from 1 January 2010 to 31 July 2025.
+          <br/><br/>
+          Dr. Panda has carried out extensive research in various areas of control of electric drives and power electronic converters. He has co-authored 1 book and published more than 175 papers in international refereed journals and conferences. His current research interests are in energy harvesting both at high power level as well as at very low-power level for wireless sensor nodes and networks, control of distributed renewable energy generation, assistive technology and mechatronics.
+          <br/><br/>
+          Dr. Panda has been very active member of the Institute of Electrical and Electronics Engineers (IEEE) and presently a Senior Member of the IEEE. He has served in various capacities as Chapter Officer in the IEEE Singapore Section Joint Power Electronics and Industry Applications Society Chapter. He has served as the Chairman of the IEEE Singapore Section in 2004. He was the Organizing Chairman for the International IEEE Power Electronics and Drives Systems Conference in 2003 as well as the International Conference on Sustainable Energy Technologies in 2008. He is the recipient of the IEEE 3rd Millennium Medal. He was awarded the Best Volunteer Award by the IEEE Singapore Section in 2006.
+        </p>
+      </div>
+      <div class="speaker-image">
+        <img src="@/assets/Dr_Sanjib_Kumar_Panda.jpg" alt="Dr. Sanjib Kumar Panda" />
+      </div>
+    </div>
+
+    <!-- Dr. Bogdan Kasztenny -->
+    <div class="speaker-item speaker-kasztenny">
+      <div class="speaker-details">
+        <h3 class="speaker-name">Dr. Bogdan Kasztenny</h3>
+        <p class="speaker-title">Power System Protection Engineer, Schweitzer Engineering Laboratories (SEL), Ontario, Canada</p>
+        <p class="speaker-description">
+          Bogdan Kasztenny has over 30 years of experience in power system protection and control. In his decade-long academic career (1989-99), Dr. Kasztenny taught power system and digital signal processing courses at several universities and conducted applied research for several relay manufacturers. In 1999 Bogdan left the academia for relay manufacturers where he has since designed, applied, and supported protection, control, and fault locating products with their global installed base counted in thousands of installations. Bogdan is an IEEE Fellow, an IET Fellow, a Senior Fulbright Fellow, a Distinguished CIGRE Member, and a registered professional engineer in the province of Ontario. Bogdan has served as a Canadian representative of the CIGRE Study Committee B5 (2013-2020) and on the Western Protective Relay Conference Program Committee (2011-2020). In 2019 Bogdan received the IEEE Canada P. Ziogas Power Engineering medal. Bogdan earned both the Ph.D. (1992) and D.Sc. (Dr. habil., 2019) degrees, has authored over 220 technical papers, and holds over 60 US patents.
+        </p>
+      </div>
+      <div class="speaker-image">
+        <img src="@/assets/Dr_Bogdan_Kasztenny.jpg" alt="Dr. Bogdan Kasztenny" />
+      </div>
+    </div>
   </div>
 </template>
 
@@ -113,6 +159,14 @@
   margin-bottom: 10px;
 }
 
+.speaker-title {
+  font-size: 1rem;
+  color: #666;
+  font-weight: 500;
+  margin-bottom: 15px;
+  font-style: italic;
+}
+
 .speaker-description {
   font-size: 1rem;
   line-height: 1.6;
@@ -124,13 +178,29 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  min-width: 200px;
 }
 
 .speaker-image img {
-  max-width: 150px;
-  max-height: 150px;
-  border-radius: 50%;
+  width: 200px;
+  height: auto;
+  border-radius: 8px;
   object-fit: cover;
+  border: 3px solid #003366;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.placeholder-image {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #003366, #0066cc);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 2rem;
+  font-weight: bold;
   border: 2px solid #ccc;
 }
 
