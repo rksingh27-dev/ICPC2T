@@ -8,10 +8,10 @@
           <strong>Registration</strong>
         </h2>
         <hr class="red title-hr" />
-                                 <p class="article">
-          Author/participants shall pay the registration fee directly to the bank account. The candidate shall send the filled registration form along with the payment proof to <a href="mailto:icpc2t@nitrr.ac.in">icpc2t-2025@nitrr.ac.in</a> on or before
-          15/12/2024 and shall fill the registration form by <a href="https://docs.google.com/forms/d/1s9cRpodVDLOAg0AIo19MUmUNwoetBhipJ4dicvYytZg/formrestricted">clicking here</a> . The registration fee details and bank account details are given below.
-        </p>
+        <h3>Registration process</h3>
+        <ul class="article">
+          <li>Interested participants shall pay the registration fee directly to the bank account. Candidate shall send the filled in registration form along with the payment proof to <a href="mailto:icpc2t_2026@nitrr.ac.in">icpc2t_2026@nitrr.ac.in</a> on or before 15/01/2026. Registration form and payment details are available in the website (<a href="http://icpc2t.nitrr.ac.in/#/">http://icpc2t.nitrr.ac.in/#/</a>)</li>
+        </ul>
         <h3>Registration Fees (Excluding GST *)</h3>
 
                      <div class="FixedHeightContainer">
@@ -110,7 +110,7 @@
         <p class="article">
           <br />
           <strong
-            >Good and Service Tax (GST) @ 18% included in the fee</strong
+            >Good and Service Tax (GST) @ 18% excluded in the fee</strong
           >
           <br />
           <strong>Participation:</strong>

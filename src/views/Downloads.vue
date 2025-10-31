@@ -11,7 +11,7 @@
         <ul class="list-group z-depth-1 mt-4">
           <li class="list-group-item d-flex">
             <a href="/Brochure_new.pdf" class="red-text" target="_blank">
-              • Download ICPC<sup>2</sup>T 2025 - Brochure
+              • Download ICPC<sup>2</sup>T 2026 - Brochure
               <i class="fas fa-file-pdf"> </i
             ></a>
           </li>
