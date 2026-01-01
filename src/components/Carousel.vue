@@ -83,9 +83,11 @@
     <!-- Marquee -->
     <div class="marquee-style">
   <div class="marquee-content">
-    <div class="marquee-item">
+     <div class="marquee-item">
      
     CMT link for paper submission: <a href="https://cmt3.research.microsoft.com/ICPC2T2026" target="_blank">https://cmt3.research.microsoft.com/ICPC2T2026</a>
+    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    Camera Ready Instructions for Participants: <a href="https://icpc2t.nitrr.ac.in/#/camerareadysubmission" target="_blank">https://icpc2t.nitrr.ac.in/#/camerareadysubmission</a>
 
     </div>
  
