@@ -87,7 +87,7 @@
      
     CMT link for paper submission: <a href="https://cmt3.research.microsoft.com/ICPC2T2026" target="_blank">https://cmt3.research.microsoft.com/ICPC2T2026</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    Camera Ready Instructions for Participants: <a href="https://icpc2t.nitrr.ac.in/#/camerareadysubmission" target="_blank">https://icpc2t.nitrr.ac.in/#/camerareadysubmission</a>
+    Camera Ready Instructions for Participants: <a href="./template_acceptance.docx" target="_blank">Download camera ready instruction</a>
 
     </div>
  

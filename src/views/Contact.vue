@@ -26,8 +26,8 @@
             <a href="tel:+919441700975">8754465755</a><br />
             <span
               >E-mail:
-              <a href="mailto: icpc2t_2026@nitrr.ac.in"
-                > icpc2t_2026@nitrr.ac.in</a
+              <a href="mailto: icpc2t@nitrr.ac.in"
+                > icpc2t@nitrr.ac.in</a
               ></span
             ><br />
             <span>ICPC<sup>2</sup>T 2026,</span><br />

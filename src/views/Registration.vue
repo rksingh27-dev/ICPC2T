@@ -10,7 +10,7 @@
         <hr class="red title-hr" />
         <h3>Registration process</h3>
         <ul class="article">
-          <li>Interested participants shall pay the registration fee directly to the bank account. Candidate shall send the filled in registration form along with the payment proof to <a href="mailto:icpc2t_2026@nitrr.ac.in">icpc2t_2026@nitrr.ac.in</a> on or before 30/01/2026. Registration form and payment details are available in the website (<a href="http://icpc2t.nitrr.ac.in/#/">http://icpc2t.nitrr.ac.in/#/</a>)</li>
+          <li>Interested participants shall pay the registration fee directly to the bank account. Candidate shall send the filled in registration form along with the payment proof to <a href="mailto:icpc2t@nitrr.ac.in">icpc2t@nitrr.ac.in</a> on or before 30/01/2026. Registration form and payment details are available in the website (<a href="http://icpc2t.nitrr.ac.in/#/">http://icpc2t.nitrr.ac.in/#/</a>)</li>
         </ul>
         <h3>Registration Fees (Excluding GST *)</h3>
 

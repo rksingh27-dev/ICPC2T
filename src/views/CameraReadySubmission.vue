@@ -13,11 +13,7 @@
         </h3>
         <hr class="red title-hr" />
         <div class="submission-instructions">
-          <p>
-            Dear {Recipient.Name},<br>
-            Greetings from Team ICPC2T 2026!<br>
-            Congratulations! We are pleased to inform you that your Paper ID "{Submission.Id}" titled "{Submission.Title}" has been provisionally accepted for possible inclusion in the {Conference.Name} to be organized at NIT Raipur scheduled to be held during 11 – 13 March, 2026.
-          </p>
+
           <p>Authors are requested to follow the instructions below for final camera-ready paper submission:-</p>
           <ol>
             <li>
